@@ -1,0 +1,23 @@
+.gameGame{
+    display: flex;
+    width: 1182px;
+    height: 522px;
+    margin: 0 auto;
+    height: 100vh;
+    align-items: center;
+}
+
+.gameName h1{
+    font-weight: 700;
+    font-size: 96px;
+ 
+}
+
+.gameName button{
+    width: 220px;
+    height: 44px;
+    border-radius: 5px;
+    background: black;
+    color: white;
+    
+}
